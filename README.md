@@ -30,4 +30,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sytunguyen77&show_icons=true&theme=dark&locale=en" alt="sytunguyen77" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sytunguyen77&theme=dark" alt="sytunguyen77" /></p>
