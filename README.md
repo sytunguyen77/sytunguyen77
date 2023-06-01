@@ -10,8 +10,6 @@
 
 - 👨‍💻 All of my projects are available at [https://sytunguyen77.github.io/myporfolio/](https://sytunguyen77.github.io/myporfolio/)
 
-- 💬 Ask me about **React and Javascript**
-
 - 📫 How to reach me **sytunguyen77@gmail.com**
 
 - 📄 Know about my experiences [https://resume-sytu.netlify.app/](https://resume-sytu.netlify.app/)
