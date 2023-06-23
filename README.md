@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sy Tu</h1>
 <h3 align="center">A passionate frontend web developer</h3>
-<h3><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Welcome+To+My+Profile" alt="Typing SVG" /></a></h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+To+My+Profile" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sytunguyen77&label=Profile%20views&color=0e75b6&style=flat" alt="sytunguyen77" /> </p>
 
