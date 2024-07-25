@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **sytunguyen77@gmail.com**
 
-- 📄 Know about my experiences [https://resume-sytu.netlify.app/](https://resume-sytu.netlify.app/)
-
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
